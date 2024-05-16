@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chapter_B_1</string>
+    <string name="label_apple">Apple</string>
+    <string name="label_avocado">Avocado</string>
+    <string name="label_versus">VS</string>
+</resources>
