@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chapter D.2</string>
+    <string name="refresh">refresh</string>
+    <string name="background">background</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">detail image</string>
+</resources>
