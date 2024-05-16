@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chapter_B_2</string>
+    <string name="try_me">Try me</string>
+    <string name="label_activate">Activate</string>
+    <string name="label_activation_complete">Activation complete!</string>
+    <string name="label_activation_ready">Ready to be activated</string>
+</resources>
