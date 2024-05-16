@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter C.1</string>
+    <string name="continue_story">Continue Story</string>
+    <string name="add">Add</string>
+    <string name="good">Good</string>
+    <string name="neutral">Neutral</string>
+    <string name="bad">Bad</string>
+    <string name="ia_personality">IA personality:</string>
+    <string name="all_caps">all caps</string>
+</resources>
